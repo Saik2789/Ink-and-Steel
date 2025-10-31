@@ -1,0 +1,15 @@
+
+
+---
+
+### Prompt para Moneda de Litecoin (LTC) - Estilo Ink & Steel
+
+**Relación de Aspecto Recomendada:** Cuadrada (1:1)
+
+```
+masterpiece, best quality, ultra high resolution 8K, hyperrealistic photo, product shot, macro photography.
+
+A single, heavy, solid silver coin lying flat on a dark, textured stone surface. The coin is intricately engraved. In the center of the coin is a large, stylized capital letter "Ł", matching the Litecoin (LTC) logo. The edge of the coin has ornate, subtle fantasy or runic patterns. The lighting is dramatic, coming from the side, catching the glint of the polished silver and casting deep shadows in the engravings. The focus is sharp on the coin, with a shallow depth of field blurring the background. The coin looks ancient, valuable, and powerful.
+
+Negative prompts: ugly, deformed, blurry, poorly drawn, cartoon, anime, 3d render, multiple coins, standing coin, floating coin, text, watermark, signature, logo, modern, plastic, cheap, gold.
+```
